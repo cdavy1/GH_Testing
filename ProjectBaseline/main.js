@@ -1,4 +1,4 @@
-﻿//Define
+﻿//Define the die
 let die = {
     value: 0
 };
